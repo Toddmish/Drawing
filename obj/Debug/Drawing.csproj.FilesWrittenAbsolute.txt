@@ -1,0 +1,8 @@
+/home/jack/Documents/dif/Drawing/Drawing/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/jack/Documents/dif/Drawing/Drawing/bin/Debug/Drawing.exe.config
+/home/jack/Documents/dif/Drawing/Drawing/bin/Debug/Drawing.exe.mdb
+/home/jack/Documents/dif/Drawing/Drawing/bin/Debug/Drawing.pdb
+/home/jack/Documents/dif/Drawing/Drawing/bin/Debug/Drawing.exe
+/home/jack/Documents/dif/Drawing/Drawing/obj/Debug/Drawing.exe
+/home/jack/Documents/dif/Drawing/Drawing/obj/Debug/Drawing.exe.mdb
+/home/jack/Documents/dif/Drawing/Drawing/obj/Debug/Drawing.pdb

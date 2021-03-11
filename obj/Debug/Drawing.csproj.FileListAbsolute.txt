@@ -1,0 +1,6 @@
+c:\users\adamson\documents\visual studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Adamson\documents\visual studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\Adamson\documents\visual studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Adamson\documents\visual studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\Adamson\documents\visual studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\Adamson\documents\visual studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.pdb
